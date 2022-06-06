@@ -1,3 +1,4 @@
+프로젝트 요약 Repository
 - 👋 Hi, I’m @KimJinHoe
 - 👀 I’m interested in ... IoT, ICT, Back-End
 - 🌱 I’m currently learning ...Object Detection, self-driving car, PHP webserver (mysql), Java Back-End
