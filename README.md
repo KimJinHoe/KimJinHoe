@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-###프로젝트 요약 Repository
-IoT, 딥러닝, UDP, TCP
+- 프로젝트 요약 Repository
+- IoT, 딥러닝, UDP, TCP
 사물인식 자율주행자동차:
 해피하우스:
 스마트운동보조기:
