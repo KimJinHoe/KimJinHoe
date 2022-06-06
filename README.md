@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KimJinHoe
 - 👀 I’m interested in ... IoT, ICT, Back-End
-- 🌱 I’m currently learning ...Object Detection, self-driving car, PHP webserver (mysql)
+- 🌱 I’m currently learning ...Object Detection, self-driving car, PHP webserver (mysql), Java Back-End
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
