@@ -4,7 +4,7 @@
 - 👀 I’m interested in Back-End(java), IoT, AI
 - 🌱 I’m currently learning ...Java Back-End, Object Detection, self-driving car.
 - 💞️ I'm looking for a job.
-- 📫 How to reach me gta1111@naver.com
+- 📫 How to reach me kimjinhoe97@gmail.com
 
 🌱main<br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&width=20px">
