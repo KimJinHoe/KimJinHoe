@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KimJinHoe
-- 👀 I’m interested in ... IoT, ICT, Back-End
-- 🌱 I’m currently learning ...Object Detection, self-driving car, Java Back-End
+- 👋 @KimJinHoe, SSAFY 7기, 정보통신공학부
+- 👀 I’m interested in ... Back-End, IoT, ICT.
+- 🌱 I’m currently learning ...Java Back-End, Object Detection, self-driving car.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kku64r@gmail.com
 
 
 # 프로젝트 요약 Repository
