@@ -1,4 +1,4 @@
-# KIM JIN HOE
+# 미래를 향해 성장하는 개발자 KIM JIN HOE
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJinHoe&count_bg=%23BE83E1&title_bg=%2370329E&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 - 👋 KimJinHoe, 정보통신공학부, SSAFY 7th.
 - 👀 I’m interested in Back-End(java), IoT, AI
