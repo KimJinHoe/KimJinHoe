@@ -7,11 +7,7 @@
 
 # 프로젝트 요약 및 영상 소개
 ## 사물인식 자율주행자동차
-[![사물인식 자율주행자동차](http://img.youtube.com/vi/qWFQqPSNTcI/0.jpg)](https://youtu.be/qWFQqPSNTcI?t=0s) 
 [![사물인식 자율주행자동차](http://img.youtube.com/vi/qWFQqPSNTcI/1.jpg)](https://youtu.be/qWFQqPSNTcI?t=0s) 
-[![사물인식 자율주행자동차](http://img.youtube.com/vi/qWFQqPSNTcI/2.jpg)](https://youtu.be/qWFQqPSNTcI?t=0s) 
-[![사물인식 자율주행자동차](http://img.youtube.com/vi/qWFQqPSNTcI/3.jpg)](https://youtu.be/qWFQqPSNTcI?t=0s) 
-[![사물인식 자율주행자동차](http://img.youtube.com/vi/qWFQqPSNTcI/4.jpg)](https://youtu.be/qWFQqPSNTcI?t=0s) 
 링크: https://youtu.be/qqEinrXe1Xc, https://youtu.be/HmNBLpgIgf8, https://youtu.be/qWFQqPSNTcI, https://youtu.be/dDcg7obU7f8
 <br> use: c++, python, tensolflow, apache web server, udp, google map api, jetson board(ubuntu), rasberry pi, html
 ## 해피하우스
