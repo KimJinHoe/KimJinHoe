@@ -7,7 +7,7 @@
 
 # 프로젝트 요약 및 영상 소개
 ## 사물인식 자율주행자동차
-링크: https://youtu.be/qqEinrXe1Xc, https://youtu.be/HmNBLpgIgf8, https://youtu.be/qWFQqPSNTcI, https://youtu.be/dDcg7obU7f8
+링크: https://youtu.be/qqEinrXe1Xc, https://youtu.be/dDcg7obU7f8, https://youtu.be/HmNBLpgIgf8, https://youtu.be/qWFQqPSNTcI, 
 <br> use: c++, python, tensolflow, apache web server, udp, google map api, jetson board(ubuntu), rasberry pi, html
 ## 해피하우스
 링크: https://youtu.be/gKxUcRZ2uz0
