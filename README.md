@@ -44,7 +44,7 @@
 <br> use: c++, python, tensolflow, apache web server, udp, google map api, jetson board(ubuntu), rasberry pi, html
 ## 해피하우스
 링크: https://youtu.be/gKxUcRZ2uz0
-<br> use1: html, css, js, bootstrap vue, vue, vuex, vue-router, kakao map api, 
+<br> use1: html, css, js, bootstrap vue, vue, vuex, vue-router, kakao map api, jira 
 <br> use2: java, mybatis, mysql, jsoup, open api, springboot, REST API, jwt
 ## 스마트운동보조기
 링크: https://youtu.be/taXZsPlkWdA
@@ -55,3 +55,6 @@
 ## (기초)php+db_헬스장회원관리사이트
 링크: https://youtu.be/3FmeCHIPPu0
 <br> use: html, php, mysql
+## COGETHER (개발자 SNS 플랫폼)
+링크: (올릴 예정)
+<br> use: mysql, spring, jwt, java, jpa, vue3, js, css, html, bootstrap, stomp, jira, gitlab, ec2, nginx, mobaXterm, aws
