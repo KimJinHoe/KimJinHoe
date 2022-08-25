@@ -40,27 +40,27 @@
 
 # 프로젝트 요약 및 영상 소개
 ## 사물인식 자율주행자동차
-- 조이스틱으로 조종하는 사물인식 자율주행RC카
+- 조이스틱으로 조종하는 사물인식 자율주행RC카<br>
 링크: https://youtu.be/qqEinrXe1Xc, https://youtu.be/dDcg7obU7f8, https://youtu.be/HmNBLpgIgf8, https://youtu.be/qWFQqPSNTcI, 
 <br> use: c++, python, tensolflow, apache web server, udp, google map api, jetson board(ubuntu), rasberry pi, html
 ## 해피하우스
-- 부동산 매물 기록 및 현황 확인 사이트
+- 부동산 매물 기록 및 현황 확인 사이트<br>
 링크: https://youtu.be/gKxUcRZ2uz0
 <br> use1: html, css, js, bootstrap vue, vue, vuex, vue-router, kakao map api, jira 
 <br> use2: java, mybatis, mysql, jsoup, open api, springboot, REST API, jwt
 ## COGETHER
-- 주니어 개발자를 위한 SNS 플랫폼
+- 주니어 개발자를 위한 SNS 플랫폼<br>
 링크: (올릴 예정)
 <br> use: mysql, spring, jwt, java, jpa, vue3, js, css, html, bootstrap, stomp, jira, gitlab, ec2, nginx, mobaXterm, aws
 ## 스마트운동보조기
-- 운동횟수를 카운트하고 타이머 및 알람기능이 있는 스마트운동보조기구
+- 운동횟수를 카운트하고 타이머 및 알람기능이 있는 스마트운동보조기구<br>
 링크: https://youtu.be/taXZsPlkWdA
 <br> use: c++, Arduino 
 ## (기초)TCP_client_server_빙고게임
-- TCP를 활용한 클라이언트 서버 빙고게임
+- TCP를 활용한 클라이언트 서버 빙고게임<br>
 링크: https://youtu.be/U41Uf3tsJYA
 <br> use: TCP socket, c++
 ## (기초)php+db_헬스장회원관리사이트
-- php와 db를 이용한 헬스장 회원관리 사이트
+- php와 db를 이용한 헬스장 회원관리 사이트<br>
 링크: https://youtu.be/3FmeCHIPPu0
 <br> use: html, php, mysql
