@@ -49,12 +49,12 @@
 ## 스마트운동보조기
 링크: https://youtu.be/taXZsPlkWdA
 <br> use: c++, Arduino 
-## TCP_client_server_빙고게임
+## COGETHER (개발자 SNS 플랫폼)
+링크: (올릴 예정)
+<br> use: mysql, spring, jwt, java, jpa, vue3, js, css, html, bootstrap, stomp, jira, gitlab, ec2, nginx, mobaXterm, aws
+## (기초)TCP_client_server_빙고게임
 링크: https://youtu.be/U41Uf3tsJYA
 <br> use: TCP socket, c++
 ## (기초)php+db_헬스장회원관리사이트
 링크: https://youtu.be/3FmeCHIPPu0
 <br> use: html, php, mysql
-## COGETHER (개발자 SNS 플랫폼)
-링크: (올릴 예정)
-<br> use: mysql, spring, jwt, java, jpa, vue3, js, css, html, bootstrap, stomp, jira, gitlab, ec2, nginx, mobaXterm, aws
