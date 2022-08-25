@@ -4,7 +4,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kku64r)](https://solved.ac/kku64r)
 - 👋 KimJinHoe, 정보통신공학부, SSAFY 7th.
 - 👀 I’m interested in Back-End(java), IoT, AI
-- 🌱 I’m currently learning ...Java Back-End, Object Detection, self-driving car.
+- 🌱 I’m currently learning ...Java Full-Stack, Object Detection, self-driving car.
 - 💞️ I'm looking for a job.
 - 📫 How to reach me kimjinhoe97@gmail.com
 
