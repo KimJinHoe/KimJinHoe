@@ -50,7 +50,7 @@
 <br> use2: java, mybatis, mysql, jsoup, open api, springboot, REST API, jwt
 ## COGETHER
 - 주니어 개발자를 위한 SNS 플랫폼<br>
-링크: (올릴 예정)
+링크: https://youtu.be/CAdFhVhvNr4
 <br> use: mysql, spring, jwt, java, jpa, vue3, js, css, html, bootstrap, stomp, jira, gitlab, ec2, nginx, mobaXterm, aws
 ## 스마트운동보조기
 - 운동횟수를 카운트하고 타이머 및 알람기능이 있는 스마트운동보조기구<br>
