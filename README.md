@@ -2,65 +2,119 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJinHoe&count_bg=%23BE83E1&title_bg=%2370329E&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kku64r)](https://solved.ac/kku64r)
-- 👋 KimJinHoe, 정보통신공학부, SSAFY 7th.
-- 👀 I’m interested in Back-End(java), IoT, AI
-- 🌱 I’m currently learning ...Java Full-Stack, Object Detection, self-driving car.
-- 💞️ I'm looking for a job.
-- 📫 How to reach me kimjinhoe97@gmail.com
+## 👨‍💼Profile
+- Contact kimjinhoe97@gmail.com
+- Interesed in IoT, Back-End
+- 학사, 정보통신공학 : 2016.03 ~ 2022.02
+- 도영 ICT 인턴십 : 2020.12 ~ 2021.01
+- 삼성청년소프트웨어 아카데미 7기 (Java Web Track) : 2022.01 ~ 2022.12
 
-🌱main<br>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&width=20px">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+## 📚Skill Set
+👨‍👦‍👦Team Collaboration Tool<br>
+<img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&width=20px"> <!-- 깃랩 -->
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira software&logoColor=white&width=20px"> <!-- 지라 -->
+<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&width=20px"> <!-- 포스트맨 -->
+<img src="https://img.shields.io/badge/rest docs-6DB33F?style=for-the-badge&logo=rest docs&logoColor=white&width=20px"> <!-- rest docs -->
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=rest docs&logoColor=white&width=20px"> <!-- 피그마 -->
 
-🌱main2<br>
+🌱Main1 (Back-End)<br>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&width=20px"> <!-- 자바 -->
+<img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=JPA&logoColor=white"> <!-- 스프링 -->
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <!-- JPA -->
+<img src="https://img.shields.io/badge/JSP-F37626?style=for-the-badge&logo=JSP&logoColor=white"> <!-- JSP -->
+<img src="https://img.shields.io/badge/mybatis-E7352C?style=for-the-badge&logo=mybatis&logoColor=white"> <!-- mybatis -->
+<br>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <!-- mysql -->
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <!-- mongodb -->
+<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <!-- redis -->
+<br>
+<img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> <!-- aws ec2 -->
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <!-- docker -->
+<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <!-- jenkins -->
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <!-- nginx -->
+<br>
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <!-- gradle -->
+<img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache maven&logoColor=white"> <!-- maven -->
+
+🌱Main2 (Front-End)<br>
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <!-- vue -->
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!-- js -->
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- html -->
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- css -->
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <!-- bootstrap -->
+
+🌱Main3<br>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
 
-🌱sub<br>
+🌱Sub<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
 
-🌱used<br>
+🌱Used<br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/JSON Web Tokens-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
 
 
 
 
-# 프로젝트 요약 및 영상 소개
-## 사물인식 자율주행자동차
-- 조이스틱으로 조종하는 사물인식 자율주행RC카<br>
-링크: https://youtu.be/qqEinrXe1Xc, https://youtu.be/dDcg7obU7f8, https://youtu.be/HmNBLpgIgf8, https://youtu.be/qWFQqPSNTcI, 
-<br> use: c++, python, tensolflow, apache web server, udp, google map api, jetson board(ubuntu), rasberry pi, html
-## 해피하우스
-- 부동산 매물 기록 및 현황 확인 사이트<br>
-링크: https://youtu.be/gKxUcRZ2uz0
-<br> use1: html, css, js, bootstrap vue, vue, vuex, vue-router, kakao map api, jira 
-<br> use2: java, mybatis, mysql, jsoup, open api, springboot, REST API, jwt
-## COGETHER
-- 주니어 개발자를 위한 SNS 플랫폼<br>
-링크: https://youtu.be/CAdFhVhvNr4
-<br> use: mysql, spring, jwt, java, jpa, vue3, js, css, html, bootstrap, stomp, jira, gitlab, ec2, nginx, mobaXterm, aws
-## 스마트운동보조기
-- 운동횟수를 카운트하고 타이머 및 알람기능이 있는 스마트운동보조기구<br>
-링크: https://youtu.be/taXZsPlkWdA
-<br> use: c++, Arduino 
-## (기초)TCP_client_server_빙고게임
-- TCP를 활용한 클라이언트 서버 빙고게임<br>
-링크: https://youtu.be/U41Uf3tsJYA
-<br> use: TCP socket, c++
-## (기초)php+db_헬스장회원관리사이트
-- php와 db를 이용한 헬스장 회원관리 사이트<br>
-링크: https://youtu.be/3FmeCHIPPu0
-<br> use: html, php, mysql
+## 📑Project프로젝트 요약 및 영상 소개
+### 사물인식 자율주행자동차 (2020.11 ~ 2021.06)
+- 사람과 표지판을 인식하는 사물인식 자율주행자동차
+- 사물인식, 라인디텍션, 조이스틱 수동조작, GPS 기록 웹 확인
+- 링크: https://youtu.be/qqEinrXe1Xc, https://youtu.be/dDcg7obU7f8, https://youtu.be/HmNBLpgIgf8, https://youtu.be/qWFQqPSNTcI, 
+- C++, Python, Tensolflow, Apache Web Server, Udp, Google map api, Jetson board(Ubuntu), Rasberry pi, HTML
+
+### 해피하우스 (2022.05)
+- 전국 부동산 매물 기록 및 현황 확인 플랫폼
+- 로그인 및 회원 기능, 게시판, 뉴스 크롤링, 공공 API 파싱
+- 링크: https://youtu.be/gKxUcRZ2uz0
+- Java, Mybatis, Mysql, Jsoup, Open api, Springboot, REST API, jwt
+- HTML, CSS, JS, Bootstrap Vue, Vue2, Vuex, Vue-Router, Kakao map api
+
+### 코게더 (2022.07 ~ 2022.08)
+- 주니어 개발자를 위한 SNS 플랫폼
+- 로그인 및 회원 기능, 뉴스피드, 팔로우, 게시글, DM(1:1 및 단체), 랭킹, 경쟁모드, 협력모드(방만들기)
+- 링크: https://youtu.be/CAdFhVhvNr4
+- Java, Spring, JPA, JWT, Mysql
+- Vue3, JS, HTML, HTML, CSS, Bootstrap, Stomp
+- AWS EC2, Nginx
+
+### 컴설턴트 (2022.08 ~ 2022.10)
+- 빅데이터 기반 컴퓨터 견적 추천 플랫폼
+- 로그인 및 회원 기능, 견적 추천, 호환성 검사, 시세 그래프, 상품 조회, 견적 담기, 댓글 및 찜하기 
+- 링크 : https://www.youtube.com/watch?v=UzseH60O1V8
+- Java, Spring, JPA, JWT, Security
+- Mysql, Redis, MongoDB
+- Hadoop, Kafka
+- Docker, Jenkins, Nginx, AWS EC2
+- React, HTML, CSS, JS
+- 데이터 크롤링(Selenium) 및 가공(File & POI)
+
+### 가드러니 (2022.10 ~ )
+- 유니티를 이용한 일상을 기록하며 나만의 정원을 꾸미는 힐링 어플리케이션
+- 로그인 및 회원 기능, 팔로우, 놀러가기, 꽃/나무일기 작성, 정원 배치
+- 링크 :
+- Java, Spring, JPA, JWT, Security
+- Mysql, Redis
+- Unity
+- Docker, Jenkins, Nginx, AWS EC2
+
+### 토이 프로젝트
+- 스마트운동보조기
+    - 운동횟수를 카운트하고 타이머 및 알람기능이 있는 스마트운동보조기구
+    - 링크: https://youtu.be/taXZsPlkWdA
+    - C++, Arduino 
+- TCP_client_server_빙고게임
+    - TCP를 활용한 클라이언트 서버 빙고게임
+    - 링크: https://youtu.be/U41Uf3tsJYA
+    - C++, TCP Socket
+- php+db_헬스장회원관리사이트
+    - php와 db를 이용한 헬스장 회원관리 사이트
+    - 링크: https://youtu.be/3FmeCHIPPu0
+    - Mysql, PHP, HTML
