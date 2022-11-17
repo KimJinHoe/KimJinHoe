@@ -64,20 +64,20 @@
 
 
 ## 📑Project프로젝트 요약 및 영상 소개
-### 사물인식 자율주행자동차 (2020.11 ~ 2021.06)
+### ✔사물인식 자율주행자동차 (2020.11 ~ 2021.06)
 - 사람과 표지판을 인식하는 사물인식 자율주행자동차
 - 사물인식, 라인디텍션, 조이스틱 수동조작, GPS 기록 웹 확인
 - 링크: https://youtu.be/qqEinrXe1Xc, https://youtu.be/dDcg7obU7f8, https://youtu.be/HmNBLpgIgf8, https://youtu.be/qWFQqPSNTcI, 
 - C++, Python, Tensolflow, Apache Web Server, Udp, Google map api, Jetson board(Ubuntu), Rasberry pi, HTML
 
-### 해피하우스 (2022.05)
+### ✔해피하우스 (2022.05)
 - 전국 부동산 매물 기록 및 현황 확인 플랫폼
 - 로그인 및 회원 기능, 게시판, 뉴스 크롤링, 공공 API 파싱
 - 링크: https://youtu.be/gKxUcRZ2uz0
 - Java, Mybatis, Mysql, Jsoup, Open api, Springboot, REST API, jwt
 - HTML, CSS, JS, Bootstrap Vue, Vue2, Vuex, Vue-Router, Kakao map api
 
-### 코게더 (2022.07 ~ 2022.08)
+### ✔코게더 (2022.07 ~ 2022.08)
 - 주니어 개발자를 위한 SNS 플랫폼
 - 로그인 및 회원 기능, 뉴스피드, 팔로우, 게시글, DM(1:1 및 단체), 랭킹, 경쟁모드, 협력모드(방만들기)
 - 링크: https://youtu.be/CAdFhVhvNr4
@@ -85,7 +85,7 @@
 - Vue3, JS, HTML, HTML, CSS, Bootstrap, Stomp
 - AWS EC2, Nginx
 
-### 컴설턴트 (2022.08 ~ 2022.10)
+### ✔컴설턴트 (2022.08 ~ 2022.10)
 - 빅데이터 기반 컴퓨터 견적 추천 플랫폼
 - 로그인 및 회원 기능, 견적 추천, 호환성 검사, 시세 그래프, 상품 조회, 견적 담기, 댓글 및 찜하기 
 - 링크 : https://www.youtube.com/watch?v=UzseH60O1V8
@@ -96,7 +96,7 @@
 - React, HTML, CSS, JS
 - 데이터 크롤링(Selenium) 및 가공(File & POI)
 
-### 가드러니 (2022.10 ~ )
+### ✔가드러니 (2022.10 ~ )
 - 유니티를 이용한 일상을 기록하며 나만의 정원을 꾸미는 힐링 어플리케이션
 - 로그인 및 회원 기능, 팔로우, 놀러가기, 꽃/나무일기 작성, 정원 배치
 - 링크 :
@@ -105,7 +105,7 @@
 - Unity
 - Docker, Jenkins, Nginx, AWS EC2
 
-### 토이 프로젝트
+### ✔토이 프로젝트
 - 스마트운동보조기
     - 운동횟수를 카운트하고 타이머 및 알람기능이 있는 스마트운동보조기구
     - 링크: https://youtu.be/taXZsPlkWdA
