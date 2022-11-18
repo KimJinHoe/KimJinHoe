@@ -1,15 +1,18 @@
-# KIM JIN HOE
+# 협업할 때 🎇빛나는 개발자, 김진회입니다.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJinHoe&count_bg=%23BE83E1&title_bg=%2370329E&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kku64r)](https://solved.ac/kku64r)
 ## 👨‍💼Profile
 - Contact kimjinhoe97@gmail.com
 - Interesed in IoT, Back-End
-- 학사, 정보통신공학 : 2016.03 ~ 2022.02
-- 도영 ICT 인턴십 : 2020.12 ~ 2021.01
-- 삼성청년소프트웨어 아카데미 7기 (Java Web Track) : 2022.01 ~ 2022.12
-
-## 🏆Awards
+### 📆History
+- 2016.03 ~ 2022.02 | 학사, 정보통신공학
+- 2018.04 ~ 2019.07 | 레바논 해외파병 복무
+- 2020.01 ~ 2020.12 | ○○총학생회 기획부장
+- 2021.01 ~ 2021.12 | ○○과학생회 기획부장
+- 2020.12 ~ 2021.01 | 도영 ICT 인턴십
+- 2022.01 ~ 2022.12 | 삼성청년소프트웨어 아카데미 7기 (Java Web Track) 
+### 🏆Awards
 - 캡스톤 디자인 대상 (AI 자율주행 자동차, 60여 팀 중 1등)
 - 삼성청년SW아카데미 프로젝트 우수상 (코게더, 3등)
 
