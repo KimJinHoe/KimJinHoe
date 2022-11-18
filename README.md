@@ -75,7 +75,7 @@
 ### ✔사물인식 자율주행자동차 (2020.11 ~ 2021.06)
 - 사람과 표지판을 인식하는 사물인식 자율주행자동차
 - 사물인식, 라인디텍션, 조이스틱 수동조작, GPS 기록 웹 확인
-- 링크: <a href="https://youtu.be/qqEinrXe1Xc">시연영상1</a>, <a href="https://youtu.be/dDcg7obU7f8">시연영상2</a>, <a href="https://youtu.be/HmNBLpgIgf8">시연영상3</a>, <a href="https://youtu.be/qWFQqPSNTcI">시연영상4</a><br>, <a href="https://github.com/KimJinHoe/Object-Detection-Selft-driving-car">프로젝트 상세보기</a>
+- 링크: <a href="https://youtu.be/qqEinrXe1Xc">시연영상1</a>, <a href="https://youtu.be/dDcg7obU7f8">시연영상2</a>, <a href="https://youtu.be/HmNBLpgIgf8">시연영상3</a>, <a href="https://youtu.be/qWFQqPSNTcI">시연영상4</a>, <a href="https://github.com/KimJinHoe/Object-Detection-Selft-driving-car">프로젝트 상세보기</a><br>
 - C++, Python, Tensolflow, Apache Web Server, Udp, Google map api, Jetson board(Ubuntu), Rasberry pi, HTML
 
 ### ✔해피하우스 (2022.05)
