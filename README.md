@@ -75,20 +75,20 @@
 ### ✔사물인식 자율주행자동차 (2020.11 ~ 2021.06)
 - 사람과 표지판을 인식하는 사물인식 자율주행자동차
 - 사물인식, 라인디텍션, 조이스틱 수동조작, GPS 기록 웹 확인
-- 링크: <a href="https://youtu.be/qqEinrXe1Xc">시연영상1</a>, <a href="https://youtu.be/dDcg7obU7f8">시연영상2</a>, <a href="https://youtu.be/HmNBLpgIgf8">시연영상3</a>, <a href="https://youtu.be/qWFQqPSNTcI">시연영상4</a>, <a href="https://github.com/KimJinHoe/Object-Detection-Selft-driving-car">프로젝트 상세보기</a><br>
+- 링크: <a href="https://github.com/KimJinHoe/Object-Detection-Selft-driving-car">프로젝트 상세보기</a>, <a href="https://youtu.be/qqEinrXe1Xc">시연영상1</a>, <a href="https://youtu.be/dDcg7obU7f8">시연영상2</a>, <a href="https://youtu.be/HmNBLpgIgf8">시연영상3</a>, <a href="https://youtu.be/qWFQqPSNTcI">시연영상4</a><br>
 - C++, Python, Tensolflow, Apache Web Server, Udp, Google map api, Jetson board(Ubuntu), Rasberry pi, HTML
 
 ### ✔해피하우스 (2022.05)
 - 전국 부동산 매물 기록 및 현황 확인 플랫폼
 - 로그인 및 회원 기능, 게시판, 뉴스 크롤링, 공공 API 파싱
-- 링크: <a href="https://youtu.be/gKxUcRZ2uz0">시연영상</a>, <a href="https://github.com/KimJinHoe/happyhouse">프로젝트 상세보기</a> <br>
+- 링크: <a href="https://github.com/KimJinHoe/happyhouse">프로젝트 상세보기</a>, <a href="https://youtu.be/gKxUcRZ2uz0">시연영상</a> <br>
 - Java, Mybatis, Mysql, Jsoup, Open api, Springboot, REST API, jwt
 - HTML, CSS, JS, Bootstrap Vue, Vue2, Vuex, Vue-Router, Kakao map api
 
 ### ✔코게더 (2022.07 ~ 2022.08)
 - 주니어 개발자를 위한 SNS 플랫폼
 - 로그인 및 회원 기능, 뉴스피드, 팔로우, 게시글, DM(1:1 및 단체), 랭킹, 경쟁모드, 협력모드(방만들기)
-- 링크: <a href="https://youtu.be/CAdFhVhvNr4">시연영상</a><br>
+- 링크: <a href="https://github.com/KimJinHoe/Cogether">프로젝트 상세보기</a>, <a href="https://youtu.be/CAdFhVhvNr4">시연영상</a><br>
 - Java, Spring, JPA, JWT, Mysql
 - Vue3, JS, HTML, HTML, CSS, Bootstrap, Stomp
 - AWS EC2, Nginx
