@@ -9,6 +9,10 @@
 - 도영 ICT 인턴십 : 2020.12 ~ 2021.01
 - 삼성청년소프트웨어 아카데미 7기 (Java Web Track) : 2022.01 ~ 2022.12
 
+## 🏆Awards
+- 캡스톤 디자인 대상 (AI 자율주행 자동차, 60여 팀 중 1등)
+- 삼성청년SW아카데미 프로젝트 우수상 (코게더, 3등)
+
 ## 📚Skill Set
 👨‍👦‍👦Team Collaboration Tool<br>
 <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&width=20px"> <!-- 깃랩 -->
