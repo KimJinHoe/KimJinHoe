@@ -1,7 +1,12 @@
 # 협업할 때 🎇빛나는 개발자, 김진회입니다.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJinHoe&count_bg=%23BE83E1&title_bg=%2370329E&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kku64r)](https://solved.ac/kku64r)
+<a href= "https://solved.ac/kku64r"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kku64r" style="height:150px;"></img></a>
+<a href="https://velog.io/@kku64r">
+    <img src="http://img.shields.io/badge/-velog-1FC896?style=flat&logo=Velog&link=https://velog.io/@kku64r"
+         style="width:30%; height:150px; margin-left:5px; margin-right:5px;"/>
+</a>
+
 ## 👨‍💼Profile
 - Contact kimjinhoe97@gmail.com
 - Interesed in IoT, Back-End
