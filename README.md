@@ -1,7 +1,6 @@
 # 협업할 때 🎇빛나는 개발자, 김진회입니다.
 **개발은 혼자하는 것이 아닙니다. 원활한 팀과의 소통과 협업은 프로젝트 성과와 직결된다고 생각합니다.  
 유익한 정보는 팀원과 공유하고 모르는 것은 팀원들에게 배우는 자세가 필요합니다. 저는 지금까지 다양한 단체 활동으로 협업 경험을 쌓았고, 프로젝트에서 팀워크를 제일 중요시합니다.**
-#
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJinHoe&count_bg=%23BE83E1&title_bg=%2370329E&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
