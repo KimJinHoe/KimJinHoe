@@ -12,7 +12,7 @@
 
 ## 👨‍💼Profile
 - Contact kimjinhoe97@gmail.com
-- Interesed in IoT, Back-End
+- Interesed in Back-End, IoT
 ### 📆History
 - 2016.03 ~ 2022.02 | 학사, 정보통신공학
 - 2018.04 ~ 2019.07 | 레바논 해외파병 복무
