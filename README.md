@@ -126,11 +126,11 @@
     - 운동횟수를 카운트하고 타이머 및 알람기능이 있는 스마트운동보조기구
     - 링크: <a href="https://youtu.be/taXZsPlkWdA">시연영상</a><br>
     - C++, Arduino 
-- TCP_client_server_빙고게임
+- TCP_client_server_빙고게임 (기초)
     - TCP를 활용한 클라이언트 서버 빙고게임
     - 링크: <a href="https://youtu.be/U41Uf3tsJYA">시연영상</a><br>
     - C++, TCP Socket
-- php+db_헬스장회원관리사이트
+- php+db_헬스장회원관리사이트 (기초)
     - php와 db를 이용한 헬스장 회원관리 사이트
     - 링크: <a href="https://youtu.be/3FmeCHIPPu0">시연영상</a><br>
     - Mysql, PHP, HTML
