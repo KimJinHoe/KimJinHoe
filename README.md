@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira software&logoColor=white&width=20px"> <!-- 지라 -->
 <img src="https://img.shields.io/badge/notion-F24E1E?style=for-the-badge&logo=notion&logoColor=white&width=20px"> <!-- 노션 -->
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&width=20px"> <!-- 포스트맨 -->
-<img src="https://img.shields.io/badge/rest docs-6DB33F?style=for-the-badge&logo=rest docs&logoColor=white&width=20px"> <!-- rest docs -->
+<img src="https://img.shields.io/badge/swagger-6DB33F?style=for-the-badge&logo=swagger&logoColor=white&width=20px"> <!-- swagger -->
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=rest docs&logoColor=white&width=20px"> <!-- 피그마 -->
 
 🌱**Main1 (Back-End)**<br>
