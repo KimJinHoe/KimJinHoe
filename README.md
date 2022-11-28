@@ -23,6 +23,7 @@
 ### 🏆Awards
 - 캡스톤 디자인 대상 (AI 자율주행 자동차, 60여 팀 중 1등)
 - 삼성청년SW아카데미 프로젝트 우수상 (코게더, 3등)
+- 삼성청년SW아카데미 최종프로젝트 우수상 (가드너리, 3등)
 
 ## 📚Skill Set
 👨‍👦‍👦**Team Collaboration Tool**<br>
@@ -80,7 +81,7 @@
 
 
 ## 📑Project (요약 및 영상 소개)
-### ✔사물인식 자율주행자동차 (2020.11 ~ 2021.06)
+### ✔사물인식 자율주행자동차 (2020.11 ~ 2021.06) 🏆
 - 사람과 표지판을 인식하는 사물인식 자율주행자동차
 - 사물인식, 라인디텍션, 조이스틱 수동조작, GPS 기록 웹 확인
 - 링크: <a href="https://github.com/KimJinHoe/Object-Detection-Selft-driving-car">프로젝트 상세보기</a>, <a href="https://youtu.be/qqEinrXe1Xc">시연영상1</a>, <a href="https://youtu.be/dDcg7obU7f8">시연영상2</a>, <a href="https://youtu.be/HmNBLpgIgf8">시연영상3</a>, <a href="https://youtu.be/qWFQqPSNTcI">시연영상4</a><br>
@@ -93,7 +94,7 @@
 - Java, Mybatis, Mysql, Jsoup, Open api, Springboot, REST API, jwt
 - HTML, CSS, JS, Bootstrap Vue, Vue2, Vuex, Vue-Router, Kakao map api
 
-### ✔코게더 (2022.07 ~ 2022.08)
+### ✔코게더 (2022.07 ~ 2022.08) 🏆
 - 주니어 개발자를 위한 SNS 플랫폼
 - 로그인 및 회원 기능, 뉴스피드, 팔로우, 게시글, DM(1:1 및 단체), 랭킹, 경쟁모드, 협력모드(방만들기)
 - 링크: <a href="https://github.com/KimJinHoe/Cogether">프로젝트 상세보기</a>, <a href="https://youtu.be/CAdFhVhvNr4">시연영상</a><br>
@@ -112,7 +113,7 @@
 - React, HTML, CSS, JS
 - 데이터 크롤링(Selenium) 및 가공(File & POI)
 
-### ✔가드너리 (2022.10 ~ 2022.11) [플레이스토어 어플 출시 예정]
+### ✔가드너리 (2022.10 ~ 2022.11) [플레이스토어 어플 출시 예정] 🏆
 - 유니티를 이용한 일상을 기록하며 나만의 정원을 꾸미는 힐링 어플리케이션
 - 로그인 및 회원 기능, 팔로우, 놀러가기, 꽃/나무일기 작성, 정원 배치
 - 링크 :
