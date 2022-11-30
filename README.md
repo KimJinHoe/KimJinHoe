@@ -90,7 +90,7 @@
 ### ✔해피하우스 (2022.05)
 - 전국 부동산 매물 기록 및 현황 확인 플랫폼
 - 로그인 및 회원 기능, 게시판, 뉴스 크롤링, 공공 API 파싱
-- 링크: <a href="https://github.com/KimJinHoe/happyhouse">프로젝트 상세보기</a>, <a href="https://youtu.be/gKxUcRZ2uz0">시연영상</a> <br>
+- 링크: <a href="https://github.com/KimJinHoe/ApartmentSaleRecordPlatform">프로젝트 상세보기</a>, <a href="https://youtu.be/gKxUcRZ2uz0">시연영상</a> <br>
 - Java, Mybatis, Mysql, Jsoup, Open api, Springboot, REST API, jwt
 - HTML, CSS, JS, Bootstrap Vue, Vue2, Vuex, Vue-Router, Kakao map api
 
