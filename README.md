@@ -87,7 +87,7 @@
 - 링크: <a href="https://github.com/KimJinHoe/Object-Detection-Selft-driving-car">프로젝트 상세보기</a>, <a href="https://youtu.be/qqEinrXe1Xc">시연영상1</a>, <a href="https://youtu.be/dDcg7obU7f8">시연영상2</a>, <a href="https://youtu.be/HmNBLpgIgf8">시연영상3</a>, <a href="https://youtu.be/qWFQqPSNTcI">시연영상4</a><br>
 - C++, Python, Tensorflow, Apache Web Server, Udp, Google map api, Jetson board(Ubuntu), Rasberry pi, HTML
 
-### ✔해피하우스 (2022.05)
+### ✔전국 부동산 플랫폼 (2022.05)
 - 전국 부동산 매물 기록 및 현황 확인 플랫폼
 - 로그인 및 회원 기능, 게시판, 뉴스 크롤링, 공공 API 파싱
 - 링크: <a href="https://github.com/KimJinHoe/ApartmentSaleRecordPlatform">프로젝트 상세보기</a>, <a href="https://youtu.be/gKxUcRZ2uz0">시연영상</a> <br>
