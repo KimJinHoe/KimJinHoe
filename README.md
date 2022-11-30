@@ -105,7 +105,7 @@
 ### ✔컴설턴트 (2022.08 ~ 2022.10)
 - 빅데이터 기반 컴퓨터 견적 추천 플랫폼
 - 로그인 및 회원 기능, 견적 추천, 호환성 검사, 시세 그래프, 상품 조회, 견적 담기, 댓글 및 찜하기 
-- 링크 : <a href="https://github.com/KimJinHoe/comsultant">프로젝트 상세보기</a>, <a href="https://www.youtube.com/watch?v=UzseH60O1V8">시연영상</a><br>
+- 링크 : <a href="https://github.com/KimJinHoe/Comsultant">프로젝트 상세보기</a>, <a href="https://www.youtube.com/watch?v=UzseH60O1V8">시연영상</a><br>
 - Java, Spring, JPA, JWT, Security
 - Mysql, Redis, MongoDB
 - Hadoop, Kafka
