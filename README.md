@@ -115,7 +115,7 @@
 ### 🏆 가드너리 (2022.10 ~ 2022.11) [플레이스토어 어플 출시 예정]
 - 유니티를 이용한 일상을 기록하며 나만의 정원을 꾸미는 힐링 어플리케이션
 - 로그인 및 회원 기능, 팔로우, 놀러가기, 꽃/나무일기 작성, 정원 배치
-- 링크 :
+- 링크 : <a href="https://github.com/KimJinHoe/Gardenary">프로젝트 상세보기</a>
 - Java, Spring, JPA, JWT, Security
 - Mysql, Redis
 - Unity
