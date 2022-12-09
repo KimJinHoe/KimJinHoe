@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/swagger-6DB33F?style=for-the-badge&logo=swagger&logoColor=white&width=20px"> <!-- swagger -->
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=rest docs&logoColor=white&width=20px"> <!-- 피그마 -->
 
-🌱**Main1 (Back-End)**<br>
+🌱**Main (Back-End)**<br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white&width=20px"> <!-- 자바 -->
 <img src="https://img.shields.io/badge/JPA-000000?style=for-the-badge&logo=JPA&logoColor=white"> <!-- 스프링 -->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <!-- JPA -->
@@ -54,13 +54,13 @@
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> <!-- gradle -->
 <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache maven&logoColor=white"> <!-- maven -->
 
-🌱**Main2 (Front-End)**<br>
+🌱**Sub (Front-End)**<br>
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <!-- vue -->
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <!-- js -->
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!-- html -->
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <!-- css -->
 
-🌱**Main3 (IoT)**<br>
+🌱**Sub (IoT)**<br>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
